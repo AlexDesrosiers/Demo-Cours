@@ -15,9 +15,18 @@ namespace TestGitHub.Controllers
         private NorthwindEntities db = new NorthwindEntities();
 
         // GET: Products
+        [HttpGet]
         public ActionResult Index()
         {
             var products = db.Products.Include(p => p.Categories).Include(p => p.Suppliers);
+            return View(products.ToList());
+        }
+
+        [HttpPost]
+
+        public ActionResult Index(string stringToFind)
+        {
+            var products = db.Products.Where(db => db.ProductName.Contains(stringToFind)).Include(p => p.Categories).Include(p => p.Suppliers);
             return View(products.ToList());
         }
 

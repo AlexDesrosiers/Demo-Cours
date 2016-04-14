@@ -5,6 +5,14 @@
 }
 
 <h2>Index</h2>
+@using (Html.BeginForm("Index", "Products"))
+{
+    <form>
+        <input id="stringToFind" type="text" name="stringToFind" placeholder="to find" />
+        <input id="findButton" type="submit" name="findButton" value="find" />
+    </form>
+
+}
 
 <p>
     @Html.ActionLink("Create New", "Create")
