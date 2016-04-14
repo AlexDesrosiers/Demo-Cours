@@ -14,6 +14,8 @@ D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\TestGitHub.dll.config
 D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\TestGitHub.dll
 D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\TestGitHub.pdb
 D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\Antlr3.Runtime.dll
+D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\EntityFramework.dll
+D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\EntityFramework.SqlServer.dll
 D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\Microsoft.Web.Infrastructure.dll
 D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\Newtonsoft.Json.dll
@@ -25,6 +27,8 @@ D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\System.Web.WebPages.Deploym
 D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\System.Web.WebPages.dll
 D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\System.Web.WebPages.Razor.dll
 D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\WebGrease.dll
+D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\EntityFramework.xml
+D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\EntityFramework.SqlServer.xml
 D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\System.Web.Helpers.xml
 D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\System.Web.Mvc.xml
@@ -35,6 +39,5 @@ D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\System.Web.WebPages.Deploym
 D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\System.Web.WebPages.Razor.xml
 D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\Antlr3.Runtime.pdb
 D:\Users\1478803\Documents\Demo-Cours\TestGitHub\bin\Newtonsoft.Json.xml
-D:\Users\1478803\Documents\Demo-Cours\TestGitHub\obj\Debug\TestGitHub.csprojResolveAssemblyReference.cache
 D:\Users\1478803\Documents\Demo-Cours\TestGitHub\obj\Debug\TestGitHub.dll
 D:\Users\1478803\Documents\Demo-Cours\TestGitHub\obj\Debug\TestGitHub.pdb
